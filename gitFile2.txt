@@ -1,6 +1,4 @@
-<<<<<<< HEAD
+DevOps is amazing.
 This is a new push to the remote repo.
 This is an additional push to the remote repo.
-=======
-This is a new push to he remote repo
->>>>>>> 0e2c41ee83636046e123648c9b4f7fc41d7431ba
+This is a new push to he remote repo.
