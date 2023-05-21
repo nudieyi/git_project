@@ -1,1 +1,2 @@
-This is a new push tot he remote repo
+This is a new push to the remote repo.
+This is an additional push to the remote repo.
