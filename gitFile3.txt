@@ -1,2 +1,5 @@
+
+People be trying to push a new branch and getting error messages.
+Ko ye won mo.
 This Git looks easy with the manner of teaching that Susan employs.
 The Prof. in Cohort 8 made it looks like Greek
