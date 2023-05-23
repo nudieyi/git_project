@@ -6,3 +6,4 @@ This might require a fetch and a push
 Or we might just go the pull route
 We will also be looking to do a pull request and after that merge the test branch with the newFeature branch.
 Note: There might be a merge conflict, but we would also be looking to resolve those conflicts and also commit the new changes afterwards. 
+#
