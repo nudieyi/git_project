@@ -1,0 +1,9 @@
+Hi, this is a test run to see what we have learned so far.
+We will be looking to do a switch to the master
+push to the remote repo
+Run a correction in the remote repo on the gitFile3 and then pull the changes into the local repo to ensure that our local and remote are in sync
+This might require a fetch and a push
+Or we might just go the pull route
+We will also be looking to do a pull request and after that merge the test branch with the newFeature branch.
+Note: There might be a merge conflict, but we would also be looking to resolve those conflicts and also commit the new changes afterwards. 
+#
