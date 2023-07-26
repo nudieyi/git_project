@@ -1,1 +1,2 @@
-This is a test project for git using gitfile1.txt
+This is a test project for git using gitfile1.txt.
+Metadata has been configured i.e. the username and user.email.
